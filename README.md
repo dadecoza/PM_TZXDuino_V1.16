@@ -27,15 +27,12 @@ I used a small blade to cut the original traces that went to pin 8 and 9 and use
 ![pmtzxduino2](https://user-images.githubusercontent.com/2756871/131916600-62ae0ee9-b4d3-4acd-8034-e7aa4f751124.jpg)
 
 ## Step 3 - Done!
-Put the Arduino and two shields together and pop in an SD Card with your favourite TZX files.
+* Connect the Arduino and the two shields together 
+* Upload the TZXDuino sketch from this repository
+* Pop in an SD Card with your favourite TZX files
+
 I have tested multiple games for the ZX Spectrum and ZX81 and they loaded 100% every time.
 
+You can get the ZXDuino instruction manual and additional information from http://arduitape.blogspot.com/ .
+
 ![pmtzxduino4](https://user-images.githubusercontent.com/2756871/131917648-020da501-8fe6-46c1-8695-878b9354f6f6.jpg)
-
-
-
-
-
-
-
-
