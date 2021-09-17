@@ -1,7 +1,7 @@
 # PM_TZXDuino_V1.16
 Poor Man's TZXDuino
 
-This is a version of TZXDuino (https://www.facebook.com/Arduitape) that makes use of an Arduino Uno and two cheap of the shelf shields, instead of the custom PCB, It also requires minimal soldering.
+This is a version of TZXDuino (https://www.facebook.com/Arduitape) that makes use of an Arduino Uno and two cheap off the shelf shields, instead of the custom PCB, It also requires minimal soldering.
 
 ## Requirements:
 * Arduino Uno
